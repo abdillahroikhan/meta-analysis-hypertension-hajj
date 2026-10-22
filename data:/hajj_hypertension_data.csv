@@ -1,0 +1,12 @@
+risk_factor,study,year,event_exp,total_exp,event_ctrl,total_ctrl
+Diabetes Mellitus,Harahap & Nurwahyuni,2019,251,636,1475,5961
+Diabetes Mellitus,Nani et al.,2024,432,792,1955,4926
+Diabetes Mellitus,Pratiwi & Helda,2024,992,1695,2756,6319
+Obesity / Excess BMI,Harahap & Nurwahyuni,2019,35,99,1691,6498
+Obesity / Excess BMI,Nani et al.,2024,1477,3224,910,2494
+Obesity / Excess BMI,Pratiwi & Helda,2024,2392,4821,1283,2987
+Dyslipidemia,Ardiana & Nirwana,2024,18174,44163,28281,69906
+Dyslipidemia,Nani et al.,2024,1120,2509,1267,3209
+Dyslipidemia,Pratiwi & Helda,2024,2280,4598,1468,3416
+Family History,Nani et al.,2024,823,1530,1564,4188
+Family History,Pratiwi & Helda,2024,995,1833,2753,6181
