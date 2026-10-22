@@ -53,7 +53,7 @@ The synthesized evidence identifies key metabolic and hereditary predictors of h
 
 Clone this repository and run the analysis script in R:
 
-git clone [https://github.com/your-username/meta-analysis-hypertension-hajj.git](https://github.com/your-username/meta-analysis-hypertension-hajj.git)
+git clone [https://github.com/abdillahroikhan/meta-analysis-hypertension-hajj](https://github.com/abdillahroikhan/meta-analysis-hypertension-hajj)
 cd meta-analysis-hypertension-hajj/analysis
 Rscript run_analysis.R
 
